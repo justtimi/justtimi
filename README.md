@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Afolayan Timileyin 👋
 
-<!--
-**justtimi/justtimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student • Frontend Engineer • Open Source Builder**
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student and frontend engineer passionate about building software that combines thoughtful user experiences with solid engineering. I enjoy creating products that are accessible, scalable, and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on writing production-quality software, contributing to open source, and growing into a software engineer capable of building products used by millions.
+
+---
+
+## 🚀 Current Project
+
+### Caption with Intention
+
+An accessibility-focused captioning engine that explores how subtitles can communicate **intent**, not just words.
+
+The project experiments with:
+
+- 🎭 Emotion-aware captions
+- 💬 Dynamic typography
+- 👥 Speaker attribution
+- 🧠 Intent analysis
+- ⏱️ Timeline-based rendering
+- 🧩 Modular architecture
+
+My goal is to improve how people experience video content through more expressive and accessible captions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Software Architecture
+- Accessibility Engineering
+- Package Development
+- Performance Optimization
+- System Design
+
+---
+
+## 🎯 Goals
+
+- Build impactful open-source software
+- Create developer tools people love using
+- Contribute to large-scale engineering projects
+- Keep improving as a software engineer every day
+- Earn a Software Engineering role at Google
+
+---
+
+## 📌 Featured Projects
+
+### 🎬 Caption with Intention
+A next-generation captioning engine focused on accessibility, emotion, and intent.
+
+### 🛍️ Timsrael Clothing
+A full-stack eCommerce platform built with the MERN stack.
+
+---
+
+## 📈 GitHub Stats
+
+> *Coming soon.*
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: Coming Soon
+- 💼 LinkedIn: *Your LinkedIn URL*
+- 📧 Email: *Your Email*
+
+---
+
+> *"Great software isn't just built to work—it's built to be understood, accessible, and meaningful."*
