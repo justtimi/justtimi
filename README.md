@@ -84,9 +84,9 @@ A full-stack eCommerce platform built with the MERN stack.
 
 ## GitHub Stats
 
-![Timmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Timmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justtimi&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justtimi&layout=compact)
 
 ---
 
