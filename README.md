@@ -3,9 +3,11 @@
 
 Building things at the intersection of code and creativity.
 
-I'm a Computer Engineering student and frontend engineer passionate about building software that combines thoughtful user experiences with solid engineering. I enjoy creating products that are accessible, scalable, and solve real-world problems.
+I've been building for the web for 5 years — longer than most people my year in school. Right now I'm focused on production-quality software: things that are tested, documented, and built to last. I care about the craft — clean APIs, expressive interfaces, and code that doesn't break when someone else touches it.
 
-Currently, I'm focused on writing production-quality software, contributing to open source, and growing into a software engineer capable of building products used by millions.
+## About Me
+Second-year Computer Engineering student with 5 years of frontend experience. I build things that sit at the edge of engineering and design — currently a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
+Working toward a Google frontend engineering internship. Every project I ship gets me closer.
 
 ---
 
@@ -52,17 +54,6 @@ My goal is to improve how people experience video content through more expressiv
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced TypeScript
-- Software Architecture
-- Accessibility Engineering
-- Package Development
-- Performance Optimization
-- System Design
-
----
-
 ## 🎯 Goals
 
 - Create developer tools people love using
@@ -91,4 +82,4 @@ My goal is to improve how people experience video content through more expressiv
 
 - 🌐 Portfolio: Coming Soon
 - 💼 LinkedIn: [Timileyin AFOLAYAN](https://www.linkedin.com/in/timmyafolayan)
-- 📧 Email: [Timileyin AFOLAYAN](afolayant537@gmail.com)
+- 📧 Email: [Timileyin AFOLAYAN](mailto:afolayant537@gmail.com)
