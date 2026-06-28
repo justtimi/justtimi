@@ -1,6 +1,7 @@
-# Hi, I'm Afolayan Timileyin 👋
+# Hi, I'm Afolayan Timileyin
+### Computer Engineering student · Frontend Developer · Aspiring Software Engineer
 
-**Computer Engineering Student • Frontend Engineer • Open Source Builder**
+Building things at the intersection of code and creativity.
 
 I'm a Computer Engineering student and frontend engineer passionate about building software that combines thoughtful user experiences with solid engineering. I enjoy creating products that are accessible, scalable, and solve real-world problems.
 
@@ -16,12 +17,12 @@ An accessibility-focused captioning engine that explores how subtitles can commu
 
 The project experiments with:
 
-- 🎭 Emotion-aware captions
-- 💬 Dynamic typography
-- 👥 Speaker attribution
-- 🧠 Intent analysis
-- ⏱️ Timeline-based rendering
-- 🧩 Modular architecture
+- Emotion-aware captions
+- Dynamic typography
+- Speaker attribution
+- Intent analysis
+- Timeline-based rendering
+- Modular architecture
 
 My goal is to improve how people experience video content through more expressive and accessible captions.
 
@@ -64,21 +65,17 @@ My goal is to improve how people experience video content through more expressiv
 
 ## 🎯 Goals
 
-- Build impactful open-source software
 - Create developer tools people love using
 - Contribute to large-scale engineering projects
 - Keep improving as a software engineer every day
-- Earn a Software Engineering role at Google
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 🎬 Caption with Intention
-A next-generation captioning engine focused on accessibility, emotion, and intent.
+**[CueEngine](https://github.com/justtimi/caption-with-intention)**: A next-generation captioning engine focused on accessibility, emotion, and intent. TypeScript caption parsing & playback. Built for scale with full test coverage and a clean public API.
 
-### 🛍️ Timsrael Clothing
-A full-stack eCommerce platform built with the MERN stack.
+**[Timsrael Clothing API](link)** — Full e-commerce backend with orders, inventory, coupons, and wishlists in Node.js + MongoDB.
 
 ---
 
@@ -93,9 +90,5 @@ A full-stack eCommerce platform built with the MERN stack.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: *Your LinkedIn URL*
-- 📧 Email: *Your Email*
-
----
-
-> *"Great software isn't just built to work—it's built to be understood, accessible, and meaningful."*
+- 💼 LinkedIn: [Timileyin AFOLAYAN](https://www.linkedin.com/in/timmyafolayan)
+- 📧 Email: [Timileyin AFOLAYAN](afolayant537@gmail.com)
