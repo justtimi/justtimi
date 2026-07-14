@@ -68,12 +68,10 @@ My goal is to improve how people experience video content through more expressiv
 
 ---
 
-## 🎯 Goals
-
-- Create developer tools people love using
-- Contribute to large-scale engineering projects
-- Keep improving as a software engineer every day
-
+##  Goals
+- Ship production-grade software that real developers use and trust
+- Land a world-class frontend engineering internship and grow into a full-time role
+- Build a body of work that speaks before I do
 ---
 
 ## Projects
