@@ -11,7 +11,7 @@ Working toward a Google frontend engineering internship. Every project I ship ge
 
 ---
 
-## 🚀 Current Project
+##  Current Project
 
 ### Caption with Intention
 
@@ -30,7 +30,7 @@ My goal is to improve how people experience video content through more expressiv
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -90,8 +90,8 @@ My goal is to improve how people experience video content through more expressiv
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: [Timileyin AFOLAYAN](https://www.linkedin.com/in/timmyafolayan)
-- 📧 Email: [Timileyin AFOLAYAN](mailto:afolayant537@gmail.com)
+- Portfolio: Coming Soon
+- LinkedIn: [Timileyin AFOLAYAN](https://www.linkedin.com/in/timmyafolayan)
+- Email: [Timileyin AFOLAYAN](mailto:afolayant537@gmail.com)
