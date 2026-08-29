@@ -1,12 +1,12 @@
 # Hi, I'm Afolayan Timileyin
-### Computer Engineering student · Frontend Developer · Aspiring Software Engineer
+### Computer Engineering student | Frontend Developer | Aspiring Software Engineer
 
 Building things at the intersection of code and creativity.
 
-I've been building for the web for 5 years — longer than most people my year in school. Right now I'm focused on production-quality software: things that are tested, documented, and built to last. I care about the craft — clean APIs, expressive interfaces, and code that doesn't break when someone else touches it.
+I've been building for the web for 5 years, which is longer than most people my year in school. Right now I'm focused on production-quality software: things that are tested, documented, and built to last. I care about the craft, clean APIs, expressive interfaces, and code that doesn't break when someone else touches it.
 
 ## About Me
-Second-year Computer Engineering student with 5 years of frontend experience. I build things that sit at the edge of engineering and design — currently a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
+Third-year Computer Engineering student with 5 years of frontend experience. I build things that sit at the edge of engineering and design. I am currently a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
 Working toward a Google frontend engineering internship. Every project I ship gets me closer.
 
 ---
@@ -52,7 +52,7 @@ My goal is to improve how people experience video content through more expressiv
 ### Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend(Basic Knowledge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,7 +78,7 @@ My goal is to improve how people experience video content through more expressiv
 
 **[CueEngine](https://github.com/justtimi/caption-with-intention)**: A next-generation captioning engine focused on accessibility, emotion, and intent. TypeScript caption parsing & playback. Built for scale with full test coverage and a clean public API.
 
-**[Timsrael Clothing API](link)** — Full e-commerce backend with orders, inventory, coupons, and wishlists in Node.js + MongoDB.
+**[Timsrael Clothing API](https://github.com/justtimi/timsrael-backend)**: This is a full e-commerce backend with orders, inventory, coupons, and wishlists in Node.js + MongoDB, with the help of AI. It is to be used in an upcoming ecommerce project I am working on.
 
 ---
 
@@ -92,6 +92,5 @@ My goal is to improve how people experience video content through more expressiv
 
 ## Connect With Me
 
-- Portfolio: Coming Soon
 - LinkedIn: [Timileyin AFOLAYAN](https://www.linkedin.com/in/timmyafolayan)
 - Email: [Timileyin AFOLAYAN](mailto:afolayant537@gmail.com)
