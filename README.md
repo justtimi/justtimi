@@ -3,10 +3,10 @@
 
 Building things at the intersection of code and creativity.
 
-I've been building for the web for 5 years, which is longer than most people my year in school. Right now I'm focused on production-quality software: things that are tested, documented, and built to last. I care about the craft, clean APIs, expressive interfaces, and code that doesn't break when someone else touches it.
+I've been building for the web for almost 6 years, with almost 4 years public on GitHub which is longer than most people my year in school. Right now I'm focused on production-quality software: things that are tested, documented, and built to last. I care about the craft, clean APIs, expressive interfaces, and code that doesn't break when someone else touches it.
 
 ## About Me
-Third-year Computer Engineering student with 5 years of frontend experience. I build things that sit at the edge of engineering and design. I am currently a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
+Third-year Computer Engineering student with almost 6 years of frontend experience, with almost 4 years public on Github. I build things that sit at the edge of engineering and design. I am currently building a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
 Working toward a Google frontend engineering internship. Every project I ship gets me closer.
 
 ---
@@ -78,7 +78,7 @@ My goal is to improve how people experience video content through more expressiv
 
 **[CueEngine](https://github.com/justtimi/caption-with-intention)**: A next-generation captioning engine focused on accessibility, emotion, and intent. TypeScript caption parsing & playback. Built for scale with full test coverage and a clean public API.
 
-**[Timsrael Clothing API](https://github.com/justtimi/timsrael-backend)**: This is a full e-commerce backend with orders, inventory, coupons, and wishlists in Node.js + MongoDB, with the help of AI. It is to be used in an upcoming ecommerce project I am working on.
+**[Query Builder Application](https://github.com/justtimi/visual-query-builder)**: A recursive, schema-driven visual query builder that lets users construct complex database-style filters without writing raw query syntax.
 
 ---
 
