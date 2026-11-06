@@ -7,7 +7,7 @@ I've been building for the web for almost 6 years, with almost 4 years public on
 
 ## About Me
 Third-year Computer Engineering student with almost 6 years of frontend experience, with almost 4 years public on Github. I build things that sit at the edge of engineering and design. I am currently building a TypeScript captioning library that treats accessibility as an expressive medium, not just a checklist.
-Working toward a Google frontend engineering internship. Every project I ship gets me closer.
+Working toward a frontend engineering internship. Every project I ship gets me closer.
 
 ---
 
